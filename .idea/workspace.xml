@@ -36,6 +36,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
@@ -117,6 +118,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -885,7 +887,7 @@
       <workItem from="1575567390555" duration="1620000" />
       <workItem from="1576601116907" duration="963000" />
       <workItem from="1576602361390" duration="234000" />
-      <workItem from="1576602714172" duration="561000" />
+      <workItem from="1576602714172" duration="840000" />
     </task>
     <servers />
   </component>
